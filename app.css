@@ -427,11 +427,6 @@ nav .nav-link:hover {
 }
 .featured .row .col-lg-6 {
   height: 212px;
-  transition: 1s;
-}
-.featured .row .col-lg-6:hover {
-  transform: scale(1.1);
-  z-index: 1;
 }
 .featured .row .col-lg-6 .right-up1 h4 {
   font-size: 18px;
