@@ -244,8 +244,8 @@ nav .nav-link:hover {
 .description .card .card-body h1 {
   color: #343a3b;
   font-size: 32px;
-  font-weight: 400;
-  font-family: domine;
+  font-weight: bold;
+  font-family: monsterat;
   line-height: 1px;
   padding-bottom: 36px;
 }
