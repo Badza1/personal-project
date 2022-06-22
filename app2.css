@@ -1,17 +1,4 @@
 
-            .triangle{
-                width: 56px;
-                height: 56px;
-                position: relative;
-                border-bottom: 56px solid #03b5e7;
-                border-right: 56px solid #ffffff00;
-                top:-56px;
-                 a{
-                    position: absolute;
-                    padding-top: 25px ;
-                    padding-left: 10px;
-                    display: inline-block;
-                    
-                }
-            }
-        
+@media only screen and (max-width: 1200px) and (min-width: 1025px)
+@media only screen and (max-width: 780px) and (min-width: 415px)
+@media (max-width: 420px)
